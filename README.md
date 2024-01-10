@@ -16,4 +16,4 @@
 - Diamond v2.0.9
 - minimap2 v2.22-r1101 
 - blobtoolkit2 v4.1.5
-- Blobblurb v1.0
+- Blobblurb v1.2
