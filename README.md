@@ -1,6 +1,6 @@
 # Scripts used for the Anastrepha obliqua genome assembly
 
-## Dependencies
+## Dependencies required
 
 - [bamtools](https://github.com/pezmaster31/bamtools) v2.5.1
 - [pigz](https://github.com/madler/pigz) v2.6
